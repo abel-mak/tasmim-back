@@ -1,0 +1,17 @@
+{
+  "name": "acf/image-paragraph",
+  "title": "Image with paragraph",
+  "description": "A custom block that displays an image with a title and text.",
+  "category": "design",
+  "keywords": [
+    "image paragraph",
+    "animation",
+    "image"
+  ],
+  "icon": "welcome-widgets-menus",
+  "apiVersion": 2,
+  "acf": {
+    "renderTemplate": "./block.php",
+    "mode": "preview"
+  }
+}

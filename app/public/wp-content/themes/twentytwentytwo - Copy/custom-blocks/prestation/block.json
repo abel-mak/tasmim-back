@@ -1,0 +1,16 @@
+{
+  "name": "acf/prestation-card",
+  "title": "Prestation card",
+  "description": "A custom card to show type of service.",
+  "category": "design",
+  "keywords": [
+    "card",
+    "prestation"
+  ],
+  "icon": "index-card",
+  "apiVersion": 2,
+  "acf": {
+    "renderTemplate": "./block.php",
+    "mode": "preview"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "acf/steps",
+  "title": "Steps",
+  "description": "A block to show list of setps.",
+  "category": "design",
+  "keywords": [
+    "steps",
+    "step"
+  ],
+  "icon": "arrow-down-alt",
+  "apiVersion": 2,
+  "acf": {
+    "renderTemplate": "./block.php",
+    "mode": "preview"
+  }
+}

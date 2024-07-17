@@ -1,0 +1,16 @@
+{
+  "name": "acf/carousel",
+  "title": "Carousel of images",
+  "description": "A container of images that keeps sliding",
+  "category": "design",
+  "keywords": [
+    "image",
+    "carousel"
+  ],
+  "icon": "images-alt2",
+  "apiVersion": 2,
+  "acf": {
+    "renderTemplate": "./block.php",
+    "mode": "preview"
+  }
+}

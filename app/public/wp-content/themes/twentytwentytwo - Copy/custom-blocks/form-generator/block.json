@@ -1,0 +1,16 @@
+{
+  "name": "acf/form-generator",
+  "title": "Form generator",
+  "description": "A block that ability to create forms",
+  "category": "design",
+  "keywords": [
+    "form",
+    "generator"
+  ],
+  "icon": "forms",
+  "apiVersion": 2,
+  "acf": {
+    "renderTemplate": "./block.php",
+    "mode": "preview"
+  }
+}
